@@ -160,6 +160,7 @@ cython_debug/
 #.idea/
 
 browser/
+pabot_results/
 log.html
 output.xml
 playwright-log.txt
