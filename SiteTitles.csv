@@ -1,5 +1,7 @@
 *** Test Cases ***;${URL};${Browser};${Title};[Tags];[Documentation]
 ;https://www.python.org/;Chrome;Welcome to Python.org;;
 ;https://www.python.org/;Firefox;Welcome to Python.org;;
+;https://www.python.org/;Safari;Welcome to Python.org;;
 ;https://www.wikipedia.org/;Chrome;Wikipedia;;
 ;https://www.wikipedia.org/;Firefox;Wikipedia;;
+;https://www.wikipedia.org/;Safari;Wikipedia;;

@@ -8,11 +8,17 @@ Testing Chrome with Python.org
 Testing Firefox with Python.org
     Open URL with Browser    https://www.python.org/    Firefox    Welcome to Python.org
 
+Testing Safari with Python.org
+    Open URL with Browser    https://www.python.org/    Safari    Welcome to Python.org
+
 Testing Chrome with Wikipedia
     Open URL with Browser    https://www.wikipedia.org/    Chrome    Wikipedia
 
 Testing Firefox with Wikipedia
     Open URL with Browser    https://www.wikipedia.org/    Firefox    Wikipedia
+
+Testing Safari with Wikipedia
+    Open URL with Browser    https://www.wikipedia.org/    Safari    Wikipedia
 
 *** Keywords ***
 Open URL with Browser

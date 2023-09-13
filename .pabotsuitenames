@@ -1,8 +1,0 @@
-datasources:5ffe35ec650ffa392d2c15762df75bcd8d414210
-commandlineoptions:65f95c924ba97541f47949701c4e3c51192a5b43
-suitesfrom:no-suites-from-option
-file:d9ede339f1e9d91e3a0d59cf2260d9ad9373de5f
---test ParallelSiteTitles.Testing Chrome with Python.org
---test ParallelSiteTitles.Testing Firefox with Python.org
---test ParallelSiteTitles.Testing Chrome with Wikipedia
---test ParallelSiteTitles.Testing Firefox with Wikipedia

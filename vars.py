@@ -1,0 +1,1 @@
+binary_location = {"goog:chromeOptions": {"binary": "/Applications/Caret\ Beta.app/Contents/MacOS/Electron"}}

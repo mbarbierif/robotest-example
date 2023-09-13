@@ -165,3 +165,7 @@ log.html
 output.xml
 playwright-log.txt
 report.html
+.pabotsuitenames
+chromedriver
+geckodriver
+screenshots/
